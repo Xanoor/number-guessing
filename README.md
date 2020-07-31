@@ -4,6 +4,7 @@ Jeu: Nombre Mystérieux en Python
 Jeu coder a 100% en Python
 
 Pour tous bug ou autre, merci de me contacter sur discord ! Xanoor1#8111
+Fichier du jeu dans "Game/Nombre Mystérieux.py"
 
 But du jeu:
 
