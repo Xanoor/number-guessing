@@ -2,7 +2,7 @@ import random
 
 number = random.randint(0, 100)
 
-print("Nombre Mystérieux - Cherche le nombre entre 0 et 100 en suivant les indications ! Credits: ")
+print("Nombre Mystérieux - Cherche le nombre entre 0 et 100 en suivant les indications ! Credits: https://github.com/Xanoor/nombre-mysterieux")
 
 validation = False
 
