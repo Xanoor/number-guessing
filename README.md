@@ -1,4 +1,7 @@
 # nombre-mysterieux
+French
+
+
 Jeu: Nombre Mystérieux en Python
 
 Jeu coder a 100% en Python
